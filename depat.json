@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "departmentId": 1,
+      "displayName": "Museum"
+    },
+    {
+      "departmentId": 2,
+      "displayName": "Memorial"
+    },
+    {
+      "departmentId": 3,
+      "displayName": "Memorial Wall"
+    },
+    {
+      "departmentId": 4,
+      "displayName": "Mahlangu"
+    },
+    {
+      "departmentId": 5,
+      "displayName": "The Woods"
+    }
+  ]
+]
